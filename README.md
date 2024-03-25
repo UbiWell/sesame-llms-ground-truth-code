@@ -16,4 +16,5 @@ The repository has the following folders:
 
 ## References
 [1] Wang, Rui, Fanglin Chen, Zhenyu Chen, Tianxing Li, Gabriella Harari, Stefanie Tignor, Xia Zhou, Dror Ben-Zeev, and Andrew T. Campbell. "StudentLife: Assessing Mental Health, Academic Performance and Behavioral Trends of College Students using Smartphones." In Proceedings of the ACM Conference on Ubiquitous Computing. 2014.
+
 [2] Tlachac, M. L., et al. "DepreST-CAT: Retrospective smartphone call and text logs collected during the covid-19 pandemic to screen for mental illnesses." Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 6.2 (2022): 1-32.
